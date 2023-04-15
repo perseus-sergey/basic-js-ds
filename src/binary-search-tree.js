@@ -10,7 +10,6 @@ const { Node } = require('../extensions/list-tree.js');
 class BinarySearchTree {
   constructor() {
     this.rootNode = null;
-    // this.root();
   }
 
   root() {
